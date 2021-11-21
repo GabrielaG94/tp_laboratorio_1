@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1637515995 source:c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1565993298 c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\linkedlist.h
+
+1637515628 c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\employee.h
+
+1637514778 source:c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+
+1637516007 source:c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1637515995 c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
+1637514850 source:c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1637514940 c:\users\pc\desktop\pruebaa\pruebaa\tp_3__\parser.h
+
