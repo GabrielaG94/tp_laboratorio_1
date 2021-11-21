@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1625585713 source:c:\users\pc\desktop\nueva carpeta (8)\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625054557 c:\users\pc\desktop\nueva carpeta (8)\linkedlist\linkedlist.h
+
+1625504919 source:c:\users\pc\desktop\nueva carpeta (8)\linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625504919 source:c:\users\pc\desktop\tp_4\tp_4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625054557 c:\users\pc\desktop\tp_4\tp_4\linkedlist.h
+
+1625588029 source:c:\users\pc\desktop\tp_4\tp_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
